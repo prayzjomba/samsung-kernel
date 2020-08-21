@@ -65,9 +65,9 @@ export KCONFIG_NOTIMESTAMP=true
 export ARCH=arm64;
 export SUB_ARCH=arm64;
 
-# G920T
-if [ "$TARGET" = "G920T" ] ; then
-	export KERNEL_CONFIG="custom_defconfig";
+# G928G
+if [ "$TARGET" = "G928G" ] ; then
+	export KERNEL_CONFIG="exynos7420-zenlte_defconfig";
 fi;
 
 # G925T

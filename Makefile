@@ -4,6 +4,10 @@ SUBLEVEL = 61
 EXTRAVERSION =
 NAME = TOSSUG Baby Fish
 
+
+TOOLCHAIN_DIR =/home/jo/aarch64-linux-android-5.3-kernel/bin/aarch64-
+
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
